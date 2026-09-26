@@ -1,6 +1,8 @@
 🏦 Bank Management System (Python)
 A simple console-based banking application that stores account data persistently using a local JSON file.
 
+Project URL Link: https://bank-management-project-q6jgd35n3hafpxbwalkzey.streamlit.app/   (copy this url and open in any browser)
+
 📋 How It Works — Step by Step
 1. Data Loading on Startup
 When the program starts, it checks if data.json exists. If it does, all existing account records are loaded into memory. If not, it starts fresh.
